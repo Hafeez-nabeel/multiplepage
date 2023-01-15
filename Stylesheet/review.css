@@ -1,0 +1,26 @@
+.container {
+  /* border: 2px solid red; */
+  width: 70vw;
+  margin: auto;
+  margin-top: 20px;
+}
+.subcontainer {
+  /* border: 1px solid blue; */
+  display: flex;
+  justify-content: center;
+}
+.subcontainer div {
+  width: 350px;
+  height: 50px;
+  text-align: center;
+}
+.review {
+  background-color: aquamarine;
+}
+.other {
+  background-color: rgb(61, 236, 105);
+}
+
+.form {
+  margin-top: 40px;
+}
